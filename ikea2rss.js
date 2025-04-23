@@ -64,7 +64,7 @@ const fs = require("fs");
 
     // Write the RSS feed to a file
     const rssOutput = feed.xml({ indent: true });
-    fs.writeFileSync("custom_feed.xml", rssOutput);
+    fs.writeFileSync("feed.xml", rssOutput);
 
     console.log("RSS feed has been generated and saved as 'custom_feed.xml'");
 
