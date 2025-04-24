@@ -44,22 +44,25 @@ const fs = require("fs");
 
     // Generate the RSS feed
     const feed = new RSS({
-        title: "Eventos Ikea Málaga",
-        description: "Eventos de la tienda de Ikea Málaga",
-        feed_url: targetURL,
-        site_url: targetURL,
-        });
-    
-        feedItems.forEach((item) => {
-        feed.item({
-            title: item.title,
-            description: item.date + "/n/n" + item.description,
-            url: item.link,
-            // date: new Date(), let's try if it works without a date
-            custom_elements: [
-                { "media:content": { _attr: { url: item.image, type: "image/png" } } },
-              ],
-        });
+      title: "Eventos Ikea Málaga",
+      description: "Eventos de la tienda de Ikea Málaga",
+      feed_url: targetURL,
+      site_url: targetURL,
+      custom_namespaces: {
+        media: "http://search.yahoo.com/mrss/", // Add the media namespace for images
+      },
+    });
+
+    feedItems.forEach((item) => {
+      feed.item({
+          title: item.title,
+          description: item.date + "/n/n" + item.description,
+          url: item.link,
+          // date: new Date(), let's try if it works without a date
+          custom_elements: [
+              { "media:content": { _attr: { url: item.image, type: "image/png" } } },
+            ],
+      });
     });
 
     // Write the RSS feed to a file
