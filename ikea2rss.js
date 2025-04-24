@@ -39,7 +39,7 @@ const fs = require("fs");
       feedItems.push({ title, link, description, date, image });
     });
 
-    console.log(feedItems[0]);
+    //console.log(feedItems[0]);
 
 
     // Generate the RSS feed
@@ -64,9 +64,9 @@ const fs = require("fs");
 
     // Write the RSS feed to a file
     const rssOutput = feed.xml({ indent: true });
-    fs.writeFileSync("feed.xml", rssOutput);
+    fs.writeFileSync("feed/feed.xml", rssOutput);
 
-    console.log("RSS feed has been generated and saved as 'custom_feed.xml'");
+    console.log("RSS feed has been generated and saved at 'feed/feed.xml'");
 
 
     // Step 6: Close the browser
