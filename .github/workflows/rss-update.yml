@@ -1,0 +1,45 @@
+name: Generate and Deploy RSS Feed
+
+on:
+  schedule:
+    # Run the workflow periodically (e.g., every day at midnight UTC)
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  generate-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Set up Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 22 # Might need to change to 23?
+
+      # Install Playwright dependencies
+      - name: Install Playwright Browsers
+        run: npx playwright install
+
+      - name: Install Playwright System Dependencies
+        run: npx playwright install-deps
+
+
+      # Install dependencies
+      - name: Install Dependencies
+        run: npm install
+
+      # Run the RSS generation script
+      - name: Run RSS Generation Script
+        run: node ikea2rss.js 
+        
+      # Commit and push the updated RSS file
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update RSS feed"
+          file_pattern: feed/feed.xml 
