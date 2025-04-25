@@ -56,9 +56,9 @@ const fs = require("fs");
     feedItems.forEach((item) => {
       feed.item({
           title: item.title,
-          description: item.date + "/n/n" + item.description,
+          description: item.date + "\n\n" + item.description,
           url: item.link,
-          // date: new Date(), let's try if it works without a date
+          // date: new Date(), seems to work withouth a date
           custom_elements: [
               { "media:content": { _attr: { url: item.image, type: "image/png" } } },
             ],
