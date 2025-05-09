@@ -56,7 +56,7 @@ const fs = require("fs");
     feedItems.forEach((item) => {
       feed.item({
           title: item.title,
-          description: item.date + "\n\n" + item.description,
+          description: "<p>"+item.date+"</p><p>"+item.description+"</p>",
           url: item.link,
           // date: new Date(), seems to work withouth a date
           custom_elements: [
