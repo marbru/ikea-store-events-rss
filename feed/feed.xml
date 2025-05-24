@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 May 2025 01:58:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 May 2025 01:54:37 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Taller con Bioparc: Descubre América 🌎]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-bioparc-descubre-america--c1620512-1651-4c27-91ee-f376fb8400d4/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-bioparc-descubre-america--c1620512-1651-4c27-91ee-f376fb8400d4/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20240901-1730103499989-7761.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[La Gran Subasta del Mercado Circular ♻]]></title>
+            <description><![CDATA[<p>sábado, 7 jun 12:00-13:00</p><p>Renueva tu hogar en la subasta del Mercado Circular</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/la-gran-subasta-del-mercado-circular--1b09ff15-1858-48e5-a74f-b548959b7989/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/la-gran-subasta-del-mercado-circular--1b09ff15-1858-48e5-a74f-b548959b7989/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250405-1747991716655-2728.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Yincana: Los animalitos del bosque 🌸]]></title>
