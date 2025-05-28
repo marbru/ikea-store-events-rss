@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 May 2025 01:58:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 May 2025 02:00:34 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[La Gran Subasta del Mercado Circular ♻]]></title>
@@ -12,6 +12,20 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/la-gran-subasta-del-mercado-circular--1b09ff15-1858-48e5-a74f-b548959b7989/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/la-gran-subasta-del-mercado-circular--1b09ff15-1858-48e5-a74f-b548959b7989/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250405-1747991716655-2728.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taller infantil: Crea tu corona de flores]]></title>
+            <description><![CDATA[<p>viernes, 20 jun 17:00-18:00 + 1 más</p><p>Ven a diseñar tu propia corona de flores para celebrar la estación más colorida del año.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-infantil-crea-tu-corona-de-flores--838d0e90-85d0-4089-a297-8fe48582927f/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-infantil-crea-tu-corona-de-flores--838d0e90-85d0-4089-a297-8fe48582927f/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250402-1748338920915-5257.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taller infantil: Menú sueco para Midsommar]]></title>
+            <description><![CDATA[<p>sábado, 21 jun 10:00-11:00</p><p>Te invitamos a un taller de cocina especial donde aprenderás a preparar platos típicos de esta fiesta tradicional sueca.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-infantil-menu-sueco-para-midsommar--e8848e16-56c5-4f54-870a-9e95f264e25c/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-infantil-menu-sueco-para-midsommar--e8848e16-56c5-4f54-870a-9e95f264e25c/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250402-1748338924902-7000.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Yincana: Los animalitos del bosque 🌸]]></title>
