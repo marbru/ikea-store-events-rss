@@ -4,15 +4,8 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Jun 2025 01:58:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jun 2025 02:12:30 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Taller con Bioparc: Descubre América]]></title>
-            <description><![CDATA[<p>sábado, 14 jun 11:00-11:45 + 1 más</p><p>Divertido taller familiar en el que descubrirás desde los coloridos arrecifes de coral hasta la majestuosa Selva Amazónica.</p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-bioparc-descubre-america--d3b4dcb5-34c0-40ff-9b16-369178bf2136/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-bioparc-descubre-america--d3b4dcb5-34c0-40ff-9b16-369178bf2136/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250404-1748515616302-199.png?f=xs" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[Celebra Midsommar y llévate un rollito de canela]]></title>
             <description><![CDATA[<p>viernes, 20 jun 10:00 - sábado, 21 jun 22:00 + 1 más</p><p>Ven con una flor y llévate un delicioso rollito de canela</p>]]></description>
@@ -35,13 +28,6 @@
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250402-1748338920915-5257.png?f=xs" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[¡Es la hora de los globos!]]></title>
-            <description><![CDATA[<p>viernes, 20 jun 18:00-20:00 + 2 más</p><p>¡Este Midsommar toma forma! pásate por nuestra entrada y recoge tu globo</p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/es-la-hora-de-los-globos--d487d1a3-3ea0-4f96-980a-fdf967ea8542/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/es-la-hora-de-los-globos--d487d1a3-3ea0-4f96-980a-fdf967ea8542/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250504-1749734263311-3983.png?f=xs" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Pintacaras]]></title>
             <description><![CDATA[<p>viernes, 20 jun 18:00-20:00 + 2 más</p><p>En esta actividad los niños podrán transformarse en sus personajes favoritos.</p>]]></description>
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/pintacaras--19df00d8-5eab-4ccd-b4a5-ce813b162a25/</link>
@@ -49,11 +35,25 @@
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250504-1749735627229-1977.png?f=xs" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[¡Es la hora de los globos!]]></title>
+            <description><![CDATA[<p>viernes, 20 jun 18:00-20:00 + 2 más</p><p>¡Este Midsommar toma forma! pásate por nuestra entrada y recoge tu globo</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/es-la-hora-de-los-globos--d487d1a3-3ea0-4f96-980a-fdf967ea8542/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/es-la-hora-de-los-globos--d487d1a3-3ea0-4f96-980a-fdf967ea8542/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250504-1749734263311-3983.png?f=xs" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Taller infantil: Menú sueco para Midsommar]]></title>
             <description><![CDATA[<p>sábado, 21 jun 10:00-11:00</p><p>Te invitamos a un taller de cocina especial donde aprenderás a preparar platos típicos de esta fiesta tradicional sueca.</p>]]></description>
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-infantil-menu-sueco-para-midsommar--e8848e16-56c5-4f54-870a-9e95f264e25c/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-infantil-menu-sueco-para-midsommar--e8848e16-56c5-4f54-870a-9e95f264e25c/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250402-1748338924902-7000.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taller con Bioparc: Descubre América]]></title>
+            <description><![CDATA[<p>sábado, 14 jun 11:00-11:45 + 1 más</p><p>Divertido taller familiar en el que descubrirás desde los coloridos arrecifes de coral hasta la majestuosa Selva Amazónica.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-bioparc-descubre-america--d3b4dcb5-34c0-40ff-9b16-369178bf2136/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-bioparc-descubre-america--d3b4dcb5-34c0-40ff-9b16-369178bf2136/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250404-1748515616302-199.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Yincana: Los animalitos del bosque]]></title>
