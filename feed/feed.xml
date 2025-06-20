@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Jun 2025 02:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jun 2025 02:02:26 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Celebra Midsommar y llévate un rollito de canela]]></title>
@@ -28,18 +28,18 @@
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250402-1748338920915-5257.png?f=xs" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[¡Es la hora de los globos!]]></title>
-            <description><![CDATA[<p>viernes, 20 jun 18:00-20:00 + 2 más</p><p>¡Este Midsommar toma forma! pásate por nuestra entrada y recoge tu globo</p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/es-la-hora-de-los-globos--d487d1a3-3ea0-4f96-980a-fdf967ea8542/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/es-la-hora-de-los-globos--d487d1a3-3ea0-4f96-980a-fdf967ea8542/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250504-1749734263311-3983.png?f=xs" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Pintacaras]]></title>
             <description><![CDATA[<p>viernes, 20 jun 18:00-20:00 + 2 más</p><p>En esta actividad los niños podrán transformarse en sus personajes favoritos.</p>]]></description>
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/pintacaras--19df00d8-5eab-4ccd-b4a5-ce813b162a25/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/pintacaras--19df00d8-5eab-4ccd-b4a5-ce813b162a25/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250504-1749735627229-1977.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[¡Es la hora de los globos!]]></title>
+            <description><![CDATA[<p>viernes, 20 jun 18:00-20:00 + 2 más</p><p>¡Este Midsommar toma forma! pásate por nuestra entrada y recoge tu globo</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/es-la-hora-de-los-globos--d487d1a3-3ea0-4f96-980a-fdf967ea8542/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/es-la-hora-de-los-globos--d487d1a3-3ea0-4f96-980a-fdf967ea8542/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250504-1749734263311-3983.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Taller infantil: Menú sueco para Midsommar]]></title>
