@@ -4,8 +4,22 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Jul 2025 02:06:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 02:06:31 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Taller MiniChef: Bocaditos de Verano]]></title>
+            <description><![CDATA[<p>sábado, 12 jul 10:00-11:00</p><p>Este verano, ¡los peques se ponen el delantal!</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-minichef-bocaditos-de-verano--d39af1e6-2e99-4081-81da-2e5555ef3dea/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-minichef-bocaditos-de-verano--d39af1e6-2e99-4081-81da-2e5555ef3dea/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250603-1752060282311-3703.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Pintacaras]]></title>
+            <description><![CDATA[<p>sábado, 19 jul 12:00-13:00</p><p>En esta actividad los niños podrán transformarse en sus personajes favoritos.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/pintacaras--8afc9c08-82bc-4d00-9edc-9a2bba7cd5ce/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/pintacaras--8afc9c08-82bc-4d00-9edc-9a2bba7cd5ce/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250504-1749735627229-1977.png?f=xs" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Yincana: Los animalitos del bosque]]></title>
             <description><![CDATA[<p>martes, 22 abr 10:00 - lunes, 31 ago 22:00</p><p>Coge tu mapa en la entrada de nuestra tienda y participa en nuestra gymkhana infantil.</p>]]></description>
