@@ -4,21 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Jul 2025 02:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jul 2025 02:23:54 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Taller MiniChef: Cocina divertida 🧑‍🍳]]></title>
-            <description><![CDATA[<p>sábado, 26 jul 10:00-11:00</p><p>Este verano, ¡los peques se ponen el delantal!</p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-minichef-cocina-divertida--1408d8c8-2288-472c-bd5a-7945fe10a52f/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-minichef-cocina-divertida--1408d8c8-2288-472c-bd5a-7945fe10a52f/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250604-1752747135791-6482.png?f=xs" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Yincana: Los animalitos del bosque]]></title>
-            <description><![CDATA[<p>martes, 22 abr 10:00 - lunes, 31 ago 22:00</p><p>Coge tu mapa en la entrada de nuestra tienda y participa en nuestra gymkhana infantil.</p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/yincana-los-animalitos-del-bosque--9a295f71-4a8b-456d-bccc-52cdeaa40ee1/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/yincana-los-animalitos-del-bosque--9a295f71-4a8b-456d-bccc-52cdeaa40ee1/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250302-1745303592458-6258.png?f=xs" type="image/png"/>
-        </item>
     </channel>
 </rss>
