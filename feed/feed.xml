@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 Aug 2025 01:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 01:54:23 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Yincana: Los animalitos del bosque]]></title>
@@ -19,6 +19,27 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--ee6c5c64-50f8-4806-98aa-a2a80581e205/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--ee6c5c64-50f8-4806-98aa-a2a80581e205/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250701-1754307188596-5756.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taller con Huertum: Aromas ocultos 🌱]]></title>
+            <description><![CDATA[<p>sábado, 6 sept 10:30-11:15 + 1 más</p><p>Un taller sensorial para disfrutar en familia: juegos de olores con plantas aromáticas y plantación de una de ellas.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-huertum-aromas-ocultos--62eb61e9-0505-445f-b6dc-8d01d354b820/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-huertum-aromas-ocultos--62eb61e9-0505-445f-b6dc-8d01d354b820/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250703-1756302508343-2581.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Degustaciones suecas 🧆]]></title>
+            <description><![CDATA[<p>lunes, 8 sept 12:00-13:00</p><p>Prueba algunos de nuestros productos suecos más famosos.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/degustaciones-suecas--4362f357-8106-496a-a99c-a20e9c6696c3/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/degustaciones-suecas--4362f357-8106-496a-a99c-a20e9c6696c3/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250703-1756303028905-451.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gran Subasta del Mercado Circular 🛒]]></title>
+            <description><![CDATA[<p>lunes, 8 sept 12:00-13:00</p><p>Puja por los muebles que hemos escogido especialmente para ti. ¡Todos ellos tendrán un precio de salida del 10% de su valor!</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--17e183c5-bb8e-43ec-b51b-c48787482ad2/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--17e183c5-bb8e-43ec-b51b-c48787482ad2/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250004-1736408628461-4565.png?f=xs" type="image/png"/>
         </item>
     </channel>
 </rss>
