@@ -4,8 +4,15 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 Aug 2025 01:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Aug 2025 01:48:09 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gran Subasta del Mercado Circular 🛒]]></title>
+            <description><![CDATA[<p>lunes, 8 sept 12:00-13:00</p><p>Puja por los muebles que hemos escogido especialmente para ti. ¡Todos ellos tendrán un precio de salida del 10% de su valor!</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--17e183c5-bb8e-43ec-b51b-c48787482ad2/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--17e183c5-bb8e-43ec-b51b-c48787482ad2/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250004-1736408628461-4565.png?f=xs" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Yincana: Los animalitos del bosque]]></title>
             <description><![CDATA[<p>martes, 22 abr 10:00 - lunes, 31 ago 22:00</p><p>Coge tu mapa en la entrada de nuestra tienda y participa en nuestra gymkhana infantil.</p>]]></description>
@@ -33,13 +40,6 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/degustaciones-suecas--4362f357-8106-496a-a99c-a20e9c6696c3/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/degustaciones-suecas--4362f357-8106-496a-a99c-a20e9c6696c3/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250703-1756303028905-451.png?f=xs" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gran Subasta del Mercado Circular 🛒]]></title>
-            <description><![CDATA[<p>lunes, 8 sept 12:00-13:00</p><p>Puja por los muebles que hemos escogido especialmente para ti. ¡Todos ellos tendrán un precio de salida del 10% de su valor!</p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--17e183c5-bb8e-43ec-b51b-c48787482ad2/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--17e183c5-bb8e-43ec-b51b-c48787482ad2/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250004-1736408628461-4565.png?f=xs" type="image/png"/>
         </item>
     </channel>
 </rss>
