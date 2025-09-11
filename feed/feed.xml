@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Sep 2025 01:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Sep 2025 01:52:44 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Yincana: Los animalitos del bosque]]></title>
@@ -21,11 +21,32 @@
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250303-1746004165678-6890.png?f=xs" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[¡Ven con delantal y llévate una sartén de regalo!]]></title>
+            <description><![CDATA[<p>sábado, 20 sept 10:00-12:00</p><p>Nuestro osito FABLER te estará dando la bienvenida para darte un regalo muy especial.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/ven-con-delantal-y-llevate-una-sarten-de-regalo--3bd5fd38-dc40-4ff3-a85e-71a83c6323bd/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/ven-con-delantal-y-llevate-una-sarten-de-regalo--3bd5fd38-dc40-4ff3-a85e-71a83c6323bd/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250803-1757484033086-252.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taller Minichef: ¡a cocinar jugando! 🍨]]></title>
+            <description><![CDATA[<p>sábado, 20 sept 10:00-11:00</p><p>¿Listos para cocinar y pasarlo en grande? En este taller infantil de showcooking, los peques se convierten en protagonistas de la cocina.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-minichef-a-cocinar-jugando--9fc9389e-49b9-472a-a4b5-77e72bf631b1/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-minichef-a-cocinar-jugando--9fc9389e-49b9-472a-a4b5-77e72bf631b1/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250803-1757487586350-8650.png?f=xs" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Degustaciones suecas gratuitas 🧆]]></title>
             <description><![CDATA[<p>sábado, 20 sept 10:30-11:30 + 1 más</p><p>Prueba durante el IKEA Festival algunos de nuestros productos suecos más famosos.</p>]]></description>
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/degustaciones-suecas-gratuitas--5248034e-c9a6-4210-a91b-360c2932f8d2/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/degustaciones-suecas-gratuitas--5248034e-c9a6-4210-a91b-360c2932f8d2/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250802-1757399862385-90.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sabores que inspiran: Showcooking adulto🧑‍🍳]]></title>
+            <description><![CDATA[<p>sábado, 20 sept 11:15-12:00</p><p>Taller adulto. Una experiencia culinaria para descubrir, aprender y disfrutar de la cocina en buena compañía.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/sabores-que-inspiran-showcooking-adulto--574a04b6-e39a-4210-a234-686b14d6e2e4/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/sabores-que-inspiran-showcooking-adulto--574a04b6-e39a-4210-a234-686b14d6e2e4/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250803-1757488533040-3817.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Charla: El surtido de menaje IKEA 🍽️]]></title>
