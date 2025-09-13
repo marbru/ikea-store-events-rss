@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Sep 2025 01:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Sep 2025 01:42:23 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Yincana: Los animalitos del bosque]]></title>
@@ -21,18 +21,18 @@
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250303-1746004165678-6890.png?f=xs" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[¡Ven con delantal y llévate una sartén de regalo!]]></title>
-            <description><![CDATA[<p>sábado, 20 sept 10:00-12:00</p><p>Nuestro osito FABLER te estará dando la bienvenida para darte un regalo muy especial.</p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/ven-con-delantal-y-llevate-una-sarten-de-regalo--3bd5fd38-dc40-4ff3-a85e-71a83c6323bd/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/ven-con-delantal-y-llevate-una-sarten-de-regalo--3bd5fd38-dc40-4ff3-a85e-71a83c6323bd/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250803-1757484033086-252.png?f=xs" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Taller Minichef: ¡a cocinar jugando! 🍨]]></title>
             <description><![CDATA[<p>sábado, 20 sept 10:00-11:00</p><p>¿Listos para cocinar y pasarlo en grande? En este taller infantil de showcooking, los peques se convierten en protagonistas de la cocina.</p>]]></description>
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-minichef-a-cocinar-jugando--9fc9389e-49b9-472a-a4b5-77e72bf631b1/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-minichef-a-cocinar-jugando--9fc9389e-49b9-472a-a4b5-77e72bf631b1/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250803-1757487586350-8650.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[¡Ven con delantal y llévate una sartén de regalo!]]></title>
+            <description><![CDATA[<p>sábado, 20 sept 10:00-12:00</p><p>Nuestro osito FABLER te estará dando la bienvenida para darte un regalo muy especial.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/ven-con-delantal-y-llevate-una-sarten-de-regalo--3bd5fd38-dc40-4ff3-a85e-71a83c6323bd/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/ven-con-delantal-y-llevate-una-sarten-de-regalo--3bd5fd38-dc40-4ff3-a85e-71a83c6323bd/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250803-1757484033086-252.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Degustaciones suecas gratuitas 🧆]]></title>
