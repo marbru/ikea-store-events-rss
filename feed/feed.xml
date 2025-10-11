@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Oct 2025 01:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Oct 2025 01:46:24 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +75,41 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-huertum-bulbos-de-otono--3c1f23b2-1855-4d53-af3a-dc96b8f4cdc0/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-huertum-bulbos-de-otono--3c1f23b2-1855-4d53-af3a-dc96b8f4cdc0/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250703-1756302508343-2581.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p><p></p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--203d53c6-0a6f-4b5e-b5d4-9ba4b13b15ac/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--203d53c6-0a6f-4b5e-b5d4-9ba4b13b15ac/</guid>
+            <media:content url="undefined" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p><p>Descubre el placer de crear con tus propias manos en nuestro taller DIY. Aprende, diviértete y llévate ideas únicas para tu hogar.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--203d53c6-0a6f-4b5e-b5d4-9ba4b13b15ac/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--203d53c6-0a6f-4b5e-b5d4-9ba4b13b15ac/</guid>
+            <media:content url="undefined" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p><p></p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--203d53c6-0a6f-4b5e-b5d4-9ba4b13b15ac/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--203d53c6-0a6f-4b5e-b5d4-9ba4b13b15ac/</guid>
+            <media:content url="undefined" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p><p></p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--203d53c6-0a6f-4b5e-b5d4-9ba4b13b15ac/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--203d53c6-0a6f-4b5e-b5d4-9ba4b13b15ac/</guid>
+            <media:content url="undefined" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p><p></p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--203d53c6-0a6f-4b5e-b5d4-9ba4b13b15ac/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--203d53c6-0a6f-4b5e-b5d4-9ba4b13b15ac/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250701-1754307188596-5756.png?f=xs" type="image/png"/>
         </item>
     </channel>
 </rss>
