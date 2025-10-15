@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Oct 2025 01:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 01:55:50 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +75,41 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--203d53c6-0a6f-4b5e-b5d4-9ba4b13b15ac/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-diy--203d53c6-0a6f-4b5e-b5d4-9ba4b13b15ac/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250701-1754307188596-5756.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p><p></p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--be615e8b-c9bf-4308-a6fd-31a4efc9dbf3/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--be615e8b-c9bf-4308-a6fd-31a4efc9dbf3/</guid>
+            <media:content url="undefined" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p><p>Puja por los muebles que hemos escogido especialmente para ti. ¡Todos ellos tendrán un precio de salida del 10% de su valor!</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--be615e8b-c9bf-4308-a6fd-31a4efc9dbf3/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--be615e8b-c9bf-4308-a6fd-31a4efc9dbf3/</guid>
+            <media:content url="undefined" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p><p></p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--be615e8b-c9bf-4308-a6fd-31a4efc9dbf3/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--be615e8b-c9bf-4308-a6fd-31a4efc9dbf3/</guid>
+            <media:content url="undefined" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p><p></p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--be615e8b-c9bf-4308-a6fd-31a4efc9dbf3/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--be615e8b-c9bf-4308-a6fd-31a4efc9dbf3/</guid>
+            <media:content url="undefined" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p><p></p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--be615e8b-c9bf-4308-a6fd-31a4efc9dbf3/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--be615e8b-c9bf-4308-a6fd-31a4efc9dbf3/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250004-1736408628461-4565.png?f=xs" type="image/png"/>
         </item>
     </channel>
 </rss>
