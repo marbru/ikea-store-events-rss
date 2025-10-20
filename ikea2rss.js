@@ -14,9 +14,7 @@ const fs = require("fs");
     const targetURL = "https://www.ikea.com/es/es/stores/events/ikea-malaga/";
     await page.goto(targetURL);
 
-    // const ikeaEventCSSSelector = ".sc-dAlyuH.gwQaZn"; // OLD
-    // Class for "section" container 
-    const ikeaEventCSSSelector = ".sc-gEvEer.kkqBsV";
+    const ikeaEventCSSSelector = ".sc-gEvEer.kkqBsV";  // Class for "section" container 
 
     // Wait for the dynamic content to load
     // Adjust the selector to match the element that indicates the content has loaded
@@ -35,7 +33,7 @@ const fs = require("fs");
     $(ikeaEventCSSSelector).each((index, element) => {
       debugger;
       const title = $(element).find("h3").text().trim();
-      const link = "https://www.ikea.com" + $(element).attr("href");
+      const link = "https://www.ikea.com" + $(element).find("a").attr("href");
       const date = $(element).find(".sc-dcJsrY.bVNDBq").text().trim();
       const description = $(element).find(".sc-hmdomO.cvoKHo").text().trim();
       const image = $(element).find("img").attr("src");
