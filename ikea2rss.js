@@ -11,15 +11,17 @@ const fs = require("fs");
     const page = await browser.newPage();
 
     // Navigate to the target website
-    const targetURL = "https://www.ikea.com/es/es/stores/events/ikea-malaga/"; 
+    const targetURL = "https://www.ikea.com/es/es/stores/events/ikea-malaga/";
     await page.goto(targetURL);
 
-    const ikeaEventCSSSelector = ".sc-dAlyuH.gwQaZn";
+    // const ikeaEventCSSSelector = ".sc-dAlyuH.gwQaZn"; // OLD
+    // Class for "section" container 
+    const ikeaEventCSSSelector = ".sc-gEvEer.kkqBsV";
 
     // Wait for the dynamic content to load
     // Adjust the selector to match the element that indicates the content has loaded
     await page.waitForSelector(ikeaEventCSSSelector, { timeout: 10000 });
-    
+
 
     // Extract the HTML content after the content has loaded
     const html = await page.content();
@@ -27,10 +29,11 @@ const fs = require("fs");
     // Load the HTML into Cheerio
     const $ = cheerio.load(html);
 
-
     // Extract the desired data using CSS selectors
     const feedItems = [];
+
     $(ikeaEventCSSSelector).each((index, element) => {
+      debugger;
       const title = $(element).find("h3").text().trim();
       const link = "https://www.ikea.com" + $(element).attr("href");
       const date = $(element).find(".sc-dcJsrY.bVNDBq").text().trim();
@@ -55,13 +58,13 @@ const fs = require("fs");
 
     feedItems.forEach((item) => {
       feed.item({
-          title: item.title,
-          description: "<p>"+item.date+"</p><p>"+item.description+"</p>",
-          url: item.link,
-          // date: new Date(), seems to work withouth a date
-          custom_elements: [
-              { "media:content": { _attr: { url: item.image, type: "image/png" } } },
-            ],
+        title: item.title,
+        description: "<p>" + item.date + "</p><p>" + item.description + "</p>",
+        url: item.link,
+        // date: new Date(), seems to work withouth a date
+        custom_elements: [
+          { "media:content": { _attr: { url: item.image, type: "image/png" } } },
+        ],
       });
     });
 
