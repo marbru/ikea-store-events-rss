@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Oct 2025 02:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Oct 2025 02:01:48 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cuentacuentos terrorífico 👻]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/cuentacuentos-terrorifico--b40b8f1c-a67a-4512-8b6f-8f887f77127c/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/cuentacuentos-terrorifico--b40b8f1c-a67a-4512-8b6f-8f887f77127c/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250904-1760595425231-1939.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlas con sabor a Málaga en IKEA ☕]]></title>
+            <description><![CDATA[<p>miércoles, 19 nov 10:30-11:30 + 1 más</p><p>¡Queremos conocer a los malagueños que llevan Málaga en el corazón!</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/charlas-con-sabor-a-malaga-en-ikea--96a5b9e5-3878-475c-ad76-1b866e8fd675/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/charlas-con-sabor-a-malaga-en-ikea--96a5b9e5-3878-475c-ad76-1b866e8fd675/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250903-1760534465586-7767.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Yincana: Los animalitos del bosque]]></title>
@@ -47,13 +54,6 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/jornada-de-reforestacion-en-sierra-bermeja--4701c01c-3e72-46d0-ac76-b74b25bc8d05/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/jornada-de-reforestacion-en-sierra-bermeja--4701c01c-3e72-46d0-ac76-b74b25bc8d05/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20241001-1730716878531-7828.png?f=xs" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlas con sabor a Málaga en IKEA ☕]]></title>
-            <description><![CDATA[<p>miércoles, 19 nov 10:30-11:30 + 1 más</p><p>¡Queremos conocer a los malagueños que llevan Málaga en el corazón!</p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/charlas-con-sabor-a-malaga-en-ikea--96a5b9e5-3878-475c-ad76-1b866e8fd675/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/charlas-con-sabor-a-malaga-en-ikea--96a5b9e5-3878-475c-ad76-1b866e8fd675/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250903-1760534465586-7767.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Taller Adulto: DIY 🎨]]></title>
