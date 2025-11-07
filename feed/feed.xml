@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Nov 2025 01:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 02:03:27 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Charlas con sabor a Málaga en IKEA ☕]]></title>
@@ -40,6 +40,13 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/jornada-de-reforestacion-en-sierra-bermeja--4701c01c-3e72-46d0-ac76-b74b25bc8d05/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/jornada-de-reforestacion-en-sierra-bermeja--4701c01c-3e72-46d0-ac76-b74b25bc8d05/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20241001-1730716878531-7828.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taller de cocina familiar: Que viva el salmón 💙💛]]></title>
+            <description><![CDATA[<p>sábado, 15 nov 10:00-11:00 + 1 más</p><p>Únete a nuestros compañeros del restaurante para preparar platos creativos inspirados en los productos de temporada y el cambio de estación.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-de-cocina-familiar-que-viva-el-salmon--6dc1ae22-403f-4711-9d19-5df0de401dc1/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-de-cocina-familiar-que-viva-el-salmon--6dc1ae22-403f-4711-9d19-5df0de401dc1/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251004-1762433224729-3776.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Taller Adulto: DIY 🎨]]></title>
