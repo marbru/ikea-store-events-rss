@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Nov 2025 01:57:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 01:56:53 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Charlas con sabor a Málaga en IKEA ☕]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/charlas-con-sabor-a-malaga-en-ikea--96a5b9e5-3878-475c-ad76-1b866e8fd675/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/charlas-con-sabor-a-malaga-en-ikea--96a5b9e5-3878-475c-ad76-1b866e8fd675/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250903-1760534465586-7767.png?f=xs" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Yincana: Los animalitos del bosque]]></title>
-            <description><![CDATA[<p>martes, 22 abr 10:00 - martes, 18 nov 10:00</p><p>Coge tu mapa en la entrada de nuestra tienda y participa en nuestra gymkhana infantil.</p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/yincana-los-animalitos-del-bosque--9a295f71-4a8b-456d-bccc-52cdeaa40ee1/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/yincana-los-animalitos-del-bosque--9a295f71-4a8b-456d-bccc-52cdeaa40ee1/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250302-1745303592458-6258.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Gymkana navideña: El Viaje de los Duendes🎄]]></title>
@@ -49,18 +42,18 @@
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250902-1761648448521-6729.png?f=xs" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Subasta - Green Friday: Dormitorio completo 🛏️]]></title>
-            <description><![CDATA[<p>sábado, 29 nov 12:00-12:30</p><p>Participa en esta subasta en la que, quien mejor apueste, se llevará este dormitorio de nuestra zona de exposición. ¿El precio de salida? ¡50€!</p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/subasta-green-friday-dormitorio-completo--0a3d7dcc-ad22-4935-a789-0d421df50d52/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/subasta-green-friday-dormitorio-completo--0a3d7dcc-ad22-4935-a789-0d421df50d52/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251005-1762515629524-270.png?f=xs" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Taller adultos - Green Friday: Batchcooking 🧑‍🍳]]></title>
             <description><![CDATA[<p>sábado, 29 nov 12:00-12:45</p><p>Taller para adultos. Una experiencia para descubrir y aprender sobre la técnica del batchcooking y no desperdiciar alimentos.</p>]]></description>
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adultos-green-friday-batchcooking--b6ce1a09-9524-4708-b744-b509a574f45e/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adultos-green-friday-batchcooking--b6ce1a09-9524-4708-b744-b509a574f45e/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250803-1757488533040-3817.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Subasta - Green Friday: Dormitorio completo 🛏️]]></title>
+            <description><![CDATA[<p>sábado, 29 nov 12:00-12:30</p><p>Participa en esta subasta en la que, quien mejor apueste, se llevará este dormitorio de nuestra zona de exposición. ¿El precio de salida? ¡50€!</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/subasta-green-friday-dormitorio-completo--0a3d7dcc-ad22-4935-a789-0d421df50d52/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/subasta-green-friday-dormitorio-completo--0a3d7dcc-ad22-4935-a789-0d421df50d52/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251005-1762515629524-270.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Subasta - Green Friday: los favoritos de IKEA 🛋️]]></title>
