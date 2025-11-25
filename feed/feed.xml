@@ -4,14 +4,35 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Nov 2025 02:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 01:59:37 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Subasta - Green Friday: Dormitorio completo 🛏️]]></title>
+            <description><![CDATA[<p>sábado, 29 nov 12:00-12:30</p><p>Participa en esta subasta en la que, quien mejor apueste, se llevará este dormitorio de nuestra zona de exposición. ¿El precio de salida? ¡50€!</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/subasta-green-friday-dormitorio-completo--0a3d7dcc-ad22-4935-a789-0d421df50d52/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/subasta-green-friday-dormitorio-completo--0a3d7dcc-ad22-4935-a789-0d421df50d52/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251005-1762515629524-270.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Subasta - Green Friday: los favoritos de IKEA 🛋️]]></title>
+            <description><![CDATA[<p>sábado, 29 nov 13:00-13:45 + 1 más</p><p>Pasaremos por tres áreas de nuestra tienda en la que subastaremos uno de nuestros productos más icónicos en cada una de ellas. ¿Te lo vas a perder?</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/subasta-green-friday-los-favoritos-de-ikea--3efacd8a-2c57-4c80-b34b-9460f9b39f0e/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/subasta-green-friday-los-favoritos-de-ikea--3efacd8a-2c57-4c80-b34b-9460f9b39f0e/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250004-1736408628461-4565.png?f=xs" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Gymkana navideña: El Viaje de los Duendes🎁]]></title>
             <description><![CDATA[<p>martes, 18 nov 10:30 - lunes, 5 ene 22:00</p><p>Los duendes han perdido la magia de la Navidad. Ayúdales a encontrar los ingredientes secretos en una divertida gymkana por nuestro showroom.</p>]]></description>
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gymkana-navidena-el-viaje-de-los-duendes--17ed0d95-d27e-4b73-badd-97cba01614fd/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gymkana-navidena-el-viaje-de-los-duendes--17ed0d95-d27e-4b73-badd-97cba01614fd/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251002-1763463595444-7522.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Degustaciones suecas gratuitas 🧆]]></title>
+            <description><![CDATA[<p>viernes, 28 nov 18:00-19:30 + 2 más</p><p>Prueba durante este Green Friday algunos de nuestros productos de alimentación más sostenibles.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/degustaciones-suecas-gratuitas--d2ecafaf-efff-4925-bc9a-a56b4a7beb8b/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/degustaciones-suecas-gratuitas--d2ecafaf-efff-4925-bc9a-a56b4a7beb8b/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251001-1763993015038-1364.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Taller infantil: Crea tus adornos sostenibles 🎄]]></title>
@@ -28,18 +49,25 @@
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250803-1757488533040-3817.png?f=xs" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Subasta - Green Friday: Dormitorio completo 🛏️]]></title>
-            <description><![CDATA[<p>sábado, 29 nov 12:00-12:30</p><p>Participa en esta subasta en la que, quien mejor apueste, se llevará este dormitorio de nuestra zona de exposición. ¿El precio de salida? ¡50€!</p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/subasta-green-friday-dormitorio-completo--0a3d7dcc-ad22-4935-a789-0d421df50d52/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/subasta-green-friday-dormitorio-completo--0a3d7dcc-ad22-4935-a789-0d421df50d52/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251005-1762515629524-270.png?f=xs" type="image/png"/>
+            <title><![CDATA[Taller de cocina familiar: Casitas de jengibre 🎅]]></title>
+            <description><![CDATA[<p>sábado, 6 dic 10:00-11:00 + 1 más</p><p>Se acerca la Navidad. Crea y decora junto a nuestro maravilloso equipo del Restaurante tu propia casita de jengibre.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-de-cocina-familiar-casitas-de-jengibre--2af3a211-647a-471f-addf-c2025402e774/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-de-cocina-familiar-casitas-de-jengibre--2af3a211-647a-471f-addf-c2025402e774/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251001-1763982771252-6835.png?f=xs" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Subasta - Green Friday: los favoritos de IKEA 🛋️]]></title>
-            <description><![CDATA[<p>sábado, 29 nov 13:00-13:45 + 1 más</p><p>Pasaremos por tres áreas de nuestra tienda en la que subastaremos uno de nuestros productos más icónicos en cada una de ellas. ¿Te lo vas a perder?</p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/subasta-green-friday-los-favoritos-de-ikea--3efacd8a-2c57-4c80-b34b-9460f9b39f0e/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/subasta-green-friday-los-favoritos-de-ikea--3efacd8a-2c57-4c80-b34b-9460f9b39f0e/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250004-1736408628461-4565.png?f=xs" type="image/png"/>
+            <title><![CDATA[Taller con Huertum: Oh Dulce Navidad🕯️]]></title>
+            <description><![CDATA[<p>sábado, 13 dic 10:30-11:15 + 1 más</p><p>¡Manos a la tierra! En este taller infantil decoraremos macetas con deseos para el nuevo año y crearemos un jardín lleno de buenos propósitos.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-huertum-oh-dulce-navidad--e8c847ae-40d6-4c01-be2b-8d5ea07a1106/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-huertum-oh-dulce-navidad--e8c847ae-40d6-4c01-be2b-8d5ea07a1106/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251001-1763987546343-7446.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Juega con nosotros a tu videojuego favorito 🎮]]></title>
+            <description><![CDATA[<p>sábado, 13 dic 11:00-20:00 + 9 más</p><p>Ven a nuestra tienda y juega a Nintendo Switch 2 como si estuvieras en el salón de tu casa.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/juega-con-nosotros-a-tu-videojuego-favorito--c9be3522-c633-430d-b514-feb870192b86/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/juega-con-nosotros-a-tu-videojuego-favorito--c9be3522-c633-430d-b514-feb870192b86/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251001-1763988603272-1406.png?f=xs" type="image/png"/>
         </item>
     </channel>
 </rss>
