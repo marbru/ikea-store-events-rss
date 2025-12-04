@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Dec 2025 02:01:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Dec 2025 02:02:53 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gymkana navideña: El Viaje de los Duendes🎁]]></title>
@@ -33,6 +33,20 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/juega-con-nosotros-a-tu-videojuego-favorito--c9be3522-c633-430d-b514-feb870192b86/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/juega-con-nosotros-a-tu-videojuego-favorito--c9be3522-c633-430d-b514-feb870192b86/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251001-1763988603272-1406.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taller de cocina familiar: delicias navideñas 🍬]]></title>
+            <description><![CDATA[<p>sábado, 20 dic 10:00-11:00 + 1 más</p><p>Descubre junto a nuestros compañeros de restaurante cómo preparar un menú de picoteo navideño fácil y delicioso para estas fiestas.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-de-cocina-familiar-delicias-navidenas--630e2577-e8f2-4acb-b516-dc35f4e9ca06/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-de-cocina-familiar-delicias-navidenas--630e2577-e8f2-4acb-b516-dc35f4e9ca06/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251103-1764751569946-4502.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gran Subasta del Mercado Circular 🛒]]></title>
+            <description><![CDATA[<p>sábado, 27 dic 12:00-13:00</p><p>Puja por los muebles que hemos escogido especialmente para ti. ¡Todos ellos tendrán un precio de salida del 10% de su valor!</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--70a0d63e-5128-47a9-8853-a248638e6497/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--70a0d63e-5128-47a9-8853-a248638e6497/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250004-1736408628461-4565.png?f=xs" type="image/png"/>
         </item>
     </channel>
 </rss>
