@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Dec 2025 02:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Dec 2025 02:06:24 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[18 Aniversario IKEA Málaga: ¿Cumples 18?🎉]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/18-aniversario-ikea-malaga-cumples-18--42c4162f-ec0e-497b-9030-a80d2190d3a1/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/18-aniversario-ikea-malaga-cumples-18--42c4162f-ec0e-497b-9030-a80d2190d3a1/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251102-1765266627580-2975.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Juega con nosotros a tu videojuego favorito 🎮]]></title>
+            <description><![CDATA[<p>sábado, 13 dic 11:00-20:00 + 9 más</p><p>Ven a nuestra tienda y juega a Nintendo Switch 2 como si estuvieras en el salón de tu casa.</p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/juega-con-nosotros-a-tu-videojuego-favorito--c9be3522-c633-430d-b514-feb870192b86/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/juega-con-nosotros-a-tu-videojuego-favorito--c9be3522-c633-430d-b514-feb870192b86/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251001-1763988603272-1406.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Gymkana navideña: El Viaje de los Duendes🎁]]></title>
@@ -26,13 +33,6 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-huertum-oh-dulce-navidad--e8c847ae-40d6-4c01-be2b-8d5ea07a1106/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-con-huertum-oh-dulce-navidad--e8c847ae-40d6-4c01-be2b-8d5ea07a1106/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251001-1763987546343-7446.png?f=xs" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Juega con nosotros a tu videojuego favorito 🎮]]></title>
-            <description><![CDATA[<p>sábado, 13 dic 11:00-20:00 + 9 más</p><p>Ven a nuestra tienda y juega a Nintendo Switch 2 como si estuvieras en el salón de tu casa.</p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/juega-con-nosotros-a-tu-videojuego-favorito--c9be3522-c633-430d-b514-feb870192b86/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/juega-con-nosotros-a-tu-videojuego-favorito--c9be3522-c633-430d-b514-feb870192b86/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251001-1763988603272-1406.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Taller de cocina familiar: delicias navideñas 🍬]]></title>
