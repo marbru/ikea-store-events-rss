@@ -4,21 +4,14 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jan 2026 02:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 02:09:29 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Juega con nosotros a tu videojuego favorito 🎮]]></title>
-            <description><![CDATA[<p>sábado, 13 dic 11:00-20:00 + 9 más</p><p></p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/juega-con-nosotros-a-tu-videojuego-favorito--c9be3522-c633-430d-b514-feb870192b86/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/juega-con-nosotros-a-tu-videojuego-favorito--c9be3522-c633-430d-b514-feb870192b86/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251001-1763988603272-1406.png?f=xs" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gymkana navideña: El Viaje de los Duendes🎁]]></title>
-            <description><![CDATA[<p>martes, 18 nov 10:30 - lunes, 5 ene 22:00</p><p></p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gymkana-navidena-el-viaje-de-los-duendes--17ed0d95-d27e-4b73-badd-97cba01614fd/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gymkana-navidena-el-viaje-de-los-duendes--17ed0d95-d27e-4b73-badd-97cba01614fd/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251002-1763463595444-7522.png?f=xs" type="image/png"/>
+            <title><![CDATA[Taller MiniChef: ¡aprende a cocinar y diviértete!]]></title>
+            <description><![CDATA[<p>sábado, 10 ene 10:00-11:00 + 1 más</p><p></p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-minichef-aprende-a-cocinar-y-diviertete--240c8f3c-6c3c-4163-993e-3f0e5ca2103a/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-minichef-aprende-a-cocinar-y-diviertete--240c8f3c-6c3c-4163-993e-3f0e5ca2103a/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20260001-1767608408291-6828.png?f=xs" type="image/png"/>
         </item>
     </channel>
 </rss>
