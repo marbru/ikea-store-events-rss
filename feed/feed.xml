@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Jan 2026 02:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 02:22:12 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Family Days: ¡Llena tu bolsa FRAKTA! 🛍️]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/family-days-la-ruleta-ikea-family--04296c9a-7bea-4e08-b178-83da661922c5/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/family-days-la-ruleta-ikea-family--04296c9a-7bea-4e08-b178-83da661922c5/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20260004-1767878810141-6232.png?f=xs" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Taller MiniChef: ¡aprende a cocinar y diviértete!]]></title>
-            <description><![CDATA[<p>sábado, 10 ene 10:00-11:00 + 1 más</p><p></p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-minichef-aprende-a-cocinar-y-diviertete--240c8f3c-6c3c-4163-993e-3f0e5ca2103a/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-minichef-aprende-a-cocinar-y-diviertete--240c8f3c-6c3c-4163-993e-3f0e5ca2103a/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20260001-1767608408291-6828.png?f=xs" type="image/png"/>
         </item>
     </channel>
 </rss>
