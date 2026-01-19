@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jan 2026 02:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 02:22:26 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Family Days: ¡Llena tu bolsa FRAKTA! 🛍️]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/family-days-llena-tu-bolsa-frakta--cbf3e880-d2f1-433e-82e8-f0255eb3afcb/</link>
             <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/family-days-llena-tu-bolsa-frakta--cbf3e880-d2f1-433e-82e8-f0255eb3afcb/</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20260004-1767876571811-3304.png?f=xs" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Family Days: La Ruleta IKEA Family 🎡]]></title>
-            <description><![CDATA[<p>sábado, 10 ene 11:00-14:00 + 3 más</p><p></p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/family-days-la-ruleta-ikea-family--04296c9a-7bea-4e08-b178-83da661922c5/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/family-days-la-ruleta-ikea-family--04296c9a-7bea-4e08-b178-83da661922c5/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20260004-1767878810141-6232.png?f=xs" type="image/png"/>
         </item>
     </channel>
 </rss>
