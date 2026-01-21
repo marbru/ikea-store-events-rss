@@ -4,14 +4,21 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jan 2026 02:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 02:20:28 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Family Days: ¡Llena tu bolsa FRAKTA! 🛍️]]></title>
-            <description><![CDATA[<p>viernes, 9 ene 00:00 - domingo, 18 ene 23:59</p><p></p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/family-days-llena-tu-bolsa-frakta--cbf3e880-d2f1-433e-82e8-f0255eb3afcb/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/family-days-llena-tu-bolsa-frakta--cbf3e880-d2f1-433e-82e8-f0255eb3afcb/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20260004-1767876571811-3304.png?f=xs" type="image/png"/>
+            <title><![CDATA[Taller infantil: Crea tu cuadro invernal ❄️]]></title>
+            <description><![CDATA[<p>sábado, 24 ene 10:00-11:00 + 1 más</p><p></p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-infantil-crea-tu-cuadro-invernal--53de3619-5918-4481-82ab-b1e205f7f146/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-infantil-crea-tu-cuadro-invernal--53de3619-5918-4481-82ab-b1e205f7f146/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20260002-1768909693642-2509.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gran Subasta del Mercado Circular 🛒]]></title>
+            <description><![CDATA[<p>sábado, 31 ene 12:00-13:00</p><p></p>]]></description>
+            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--8b9dfa48-6ac9-47fd-a387-f2eb1584cef5/</link>
+            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--8b9dfa48-6ac9-47fd-a387-f2eb1584cef5/</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250004-1736408628461-4565.png?f=xs" type="image/png"/>
         </item>
     </channel>
 </rss>
