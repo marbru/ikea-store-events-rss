@@ -4,34 +4,27 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Feb 2026 02:44:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 02:38:59 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gymkana: Los animalitos del bosque 🌼]]></title>
             <description><![CDATA[<p>miércoles, 4 feb 10:00 - lunes, 31 ago 21:00</p><p></p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gymkana-los-animalitos-del-bosque--5cebc63f-517d-4cde-94c8-f270dba94d91/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gymkana-los-animalitos-del-bosque--5cebc63f-517d-4cde-94c8-f270dba94d91/</guid>
+            <link>https://www.ikea.comundefined</link>
+            <guid isPermaLink="true">https://www.ikea.comundefined</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250302-1745303592458-6258.png?f=xs" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Taller infantil: Crea tu móvil invernal ☃️]]></title>
-            <description><![CDATA[<p>sábado, 21 feb 10:00-11:00 + 1 más</p><p></p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-infantil-crea-tu-movil-invernal--0e8f4ade-142e-466f-9f79-c25e295a087d/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-infantil-crea-tu-movil-invernal--0e8f4ade-142e-466f-9f79-c25e295a087d/</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20260102-1770114674069-6975.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Taller Adulto: La cocina de tus sueños con IKEA 🍳]]></title>
             <description><![CDATA[<p>viernes, 27 feb 12:00-13:00</p><p></p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-la-cocina-de-tus-suenos-con-ikea--971188bd-6478-49d7-825d-3f26ddf6d102/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/taller-adulto-la-cocina-de-tus-suenos-con-ikea--971188bd-6478-49d7-825d-3f26ddf6d102/</guid>
+            <link>https://www.ikea.comundefined</link>
+            <guid isPermaLink="true">https://www.ikea.comundefined</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20260102-1770116828884-6676.png?f=xs" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Gran Subasta del Mercado Circular 🛒]]></title>
             <description><![CDATA[<p>sábado, 28 feb 12:00-13:00</p><p></p>]]></description>
-            <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--ce319a2c-521b-4816-b41f-6cbc4bf358ce/</link>
-            <guid isPermaLink="true">https://www.ikea.com/es/es/stores/events/ikea-malaga/gran-subasta-del-mercado-circular--ce319a2c-521b-4816-b41f-6cbc4bf358ce/</guid>
+            <link>https://www.ikea.comundefined</link>
+            <guid isPermaLink="true">https://www.ikea.comundefined</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250004-1736408628461-4565.png?f=xs" type="image/png"/>
         </item>
     </channel>
