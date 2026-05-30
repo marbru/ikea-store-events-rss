@@ -4,7 +4,7 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 May 2026 04:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 03:58:47 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +33,27 @@
             <link>https://www.ikea.comundefined</link>
             <guid isPermaLink="true">https://www.ikea.comundefined</guid>
             <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20251001-1763988603272-1406.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>sábado, 13 jun 10:00-11:00 + 1 más</p><p></p>]]></description>
+            <link>https://www.ikea.comundefined</link>
+            <guid isPermaLink="true">https://www.ikea.comundefined</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20260405-1780043870871-4227.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>sábado, 20 jun 10:00-11:00 + 1 más</p><p></p>]]></description>
+            <link>https://www.ikea.comundefined</link>
+            <guid isPermaLink="true">https://www.ikea.comundefined</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250402-1748338920915-5257.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>sábado, 27 jun 12:00-13:00</p><p></p>]]></description>
+            <link>https://www.ikea.comundefined</link>
+            <guid isPermaLink="true">https://www.ikea.comundefined</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250004-1736408628461-4565.png?f=xs" type="image/png"/>
         </item>
     </channel>
 </rss>
