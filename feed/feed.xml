@@ -4,14 +4,28 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 04:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 03:57:08 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>miércoles, 4 feb 10:00 - lunes, 31 ago 21:00</p><p></p>]]></description>
+            <description><![CDATA[<p>sábado, 12 sept 11:00-11:45</p><p></p>]]></description>
             <link>https://www.ikea.comundefined</link>
             <guid isPermaLink="true">https://www.ikea.comundefined</guid>
-            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250302-1745303592458-6258.png?f=xs" type="image/png"/>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20260902-1788330364743-3114.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>sábado, 12 sept 12:00-12:45</p><p></p>]]></description>
+            <link>https://www.ikea.comundefined</link>
+            <guid isPermaLink="true">https://www.ikea.comundefined</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20260902-1788332254860-8529.png?f=xs" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>sábado, 12 sept 13:00-13:45</p><p></p>]]></description>
+            <link>https://www.ikea.comundefined</link>
+            <guid isPermaLink="true">https://www.ikea.comundefined</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20260902-1788334532743-8631.png?f=xs" type="image/png"/>
         </item>
     </channel>
 </rss>
