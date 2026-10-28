@@ -4,8 +4,15 @@
         <description><![CDATA[Eventos de la tienda de Ikea Málaga]]></description>
         <link>https://www.ikea.com/es/es/stores/events/ikea-malaga/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 04:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 05:04:13 GMT</lastBuildDate>
         <atom:link href="https://www.ikea.com/es/es/stores/events/ikea-malaga/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>viernes, 30 oct 16:30-17:30</p><p></p>]]></description>
+            <link>https://www.ikea.comundefined</link>
+            <guid isPermaLink="true">https://www.ikea.comundefined</guid>
+            <media:content url="https://www.ikea.com/global/assets/customer-service/store-events/event-images/es_es-20250904-1760595425231-1939.png?f=xs" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>viernes, 30 oct 17:00-18:00</p><p></p>]]></description>
